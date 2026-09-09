@@ -7,17 +7,22 @@
 I'm Haseeb Khan, a BS Cybersecurity student at IMSciences, Peshawar, Pakistan. My goal is to become a world-class Penetration Tester and AI Security Engineer. I started from absolute zero and I'm documenting every step of my journey here — the notes I take, the labs I do, the projects I build, and the skills I develop.
 
 ## What You'll Find Here
-This repository is my public learning log. It contains everything I study and practice as I move through my cybersecurity roadmap.
 
-Notes — topic by topic study notes written in my own words
+This repository is organized by learning phase. Here is what each folder contains:
 
-Labs — hands-on lab writeups and exercises done in Kali Linux
+phase-1-foundations/notes — Study notes on computer fundamentals, binary, and OS basics
 
-Cheat Sheets — quick reference guides I build while learning
+phase-1-foundations/labs — Hands-on lab exercises from Phase 1
 
-Projects — beginner to advanced practical projects
+phase-1-foundations/cheat-sheets — Quick reference sheets I build while studying
 
-CTF Writeups — Capture The Flag challenge solutions and my thought process
+phase-2-linux/notes — Linux fundamentals notes
+
+phase-2-linux/labs — Linux hands-on exercises
+
+projects — Practical projects with full writeups
+
+ctf-writeups — Capture The Flag challenge solutions and my thought process
 
 ## My Learning Roadmap
 Phase 1 — Foundations (Currently Here)
