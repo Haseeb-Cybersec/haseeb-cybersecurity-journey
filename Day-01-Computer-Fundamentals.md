@@ -735,5 +735,6 @@ Binary is the language computers actually use. Hexadecimal is shorthand for bina
 | TryHackMe | https://tryhackme.com/ |
 
 
+Part of my public cybersecurity learning journey — [haseeb-cybersecurity-journey](https://github.com/Haseeb-Cybersec/haseeb-cybersecurity-journey)
 
-Part of my public cybersecurity learning journey — haseebcybersecurityjourney(https://github.com/HaseebCybersec/haseebcybersecurityjourney)
+
